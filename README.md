@@ -1,4 +1,4 @@
-Script Functionality and Usage (English Translation)
+
 Software Requirements:
 
 Python 3
